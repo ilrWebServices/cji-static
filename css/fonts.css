@@ -1,0 +1,110 @@
+/*
+ * Legal Disclaimer
+ *
+ * These ../webfonts are licensed only for use on these domains and their subdomains:
+ * www.ilr.cornell.edu
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2018
+ */
+
+
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The ../webfonts folder(s) should be placed relative to the regular CSS file.
+ *
+ * You can use either the complete or subsetted ../webfonts:
+ * If you don’t require the entire range of characters, you can use the smaller, subsetted web../webfonts instead.
+ * See "Glyphs & Languages" for an overview of the characters in the corresponding html file in the root directory of this package.
+ *
+ */
+
+
+/* Complete */
+
+@font-face {
+    font-family: "LL Replica Bold Web";
+    src: url("../webfonts/lineto-replica-bold.eot");
+    src: url("../webfonts/lineto-replica-bold.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-bold.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-bold.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Bold Italic Web";
+    src: url("../webfonts/lineto-replica-bolditalic.eot");
+    src: url("../webfonts/lineto-replica-bolditalic.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-bolditalic.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-bolditalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Heavy Web";
+    src: url("../webfonts/lineto-replica-heavy.eot");
+    src: url("../webfonts/lineto-replica-heavy.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-heavy.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-heavy.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Heavy Italic Web";
+    src: url("../webfonts/lineto-replica-heavyitalic.eot");
+    src: url("../webfonts/lineto-replica-heavyitalic.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-heavyitalic.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-heavyitalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Italic Web";
+    src: url("../webfonts/lineto-replica-italic.eot");
+    src: url("../webfonts/lineto-replica-italic.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-italic.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Light Web";
+    src: url("../webfonts/lineto-replica-light.eot");
+    src: url("../webfonts/lineto-replica-light.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-light.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Light Italic Web";
+    src: url("../webfonts/lineto-replica-lightitalic.eot");
+    src: url("../webfonts/lineto-replica-lightitalic.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-lightitalic.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-lightitalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Replica Regular Web";
+    src: url("../webfonts/lineto-replica-regular.eot");
+    src: url("../webfonts/lineto-replica-regular.eot?#iefix") format("embedded-opentype"),
+         url("../webfonts/lineto-replica-regular.woff2") format("woff2"),
+         url("../webfonts/lineto-replica-regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
