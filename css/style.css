@@ -248,6 +248,15 @@ header {
             width: 250px;
         }
     }
+
+    .header-right {
+        justify-self: end;
+        width: 350px;
+
+        @media (max-width: 767.98px) {
+            width: 250px;
+        }
+    }
 }
 
 /* hero banner */
